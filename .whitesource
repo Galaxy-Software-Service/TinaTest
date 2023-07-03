@@ -14,7 +14,8 @@
     "issueType": "DEPENDENCY"
   },
   "commitStatusSettings": {
-    "showWsInfo": true
+    "showWsInfo": true,
+    "useMendCheckNames":true
   },
   "remediateSettings": {
     "workflowRules": {
